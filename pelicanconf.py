@@ -1,8 +1,9 @@
 AUTHOR = 'thomascytosis'
 SITENAME = 'retry_one'
-SITEURL = ''
+SITEURL = '.'
 
 PATH = 'content'
+OUTPUT_PATH = 'docs/'
 
 TIMEZONE = 'America/Denver'
 
