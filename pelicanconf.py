@@ -8,7 +8,11 @@ OUTPUT_PATH = 'docs/'
 TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = 'en'
-
+PLUGINS = [
+    # ...
+    'minchin.pelican.plugins.nojekyll',
+    # ...
+]
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
