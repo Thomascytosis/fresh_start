@@ -8,6 +8,7 @@ OUTPUT_PATH = 'docs/'
 TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = 'en'
+PLUGIN_PATHS = ['https://github.com/pelican-plugins/']
 PLUGINS = [
     # ...
     'minchin.pelican.plugins.nojekyll',

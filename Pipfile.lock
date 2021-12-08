@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "131a68962c2ace18729f03d97347176229e3e3e2ed358041c74bb3e64dd08635"
+            "sha256": "118b49f149660d9958aafe13f428e13a465688e923b868347764fad5f4d3ea28"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -152,6 +152,14 @@
             "markers": "python_version >= '3.6'",
             "version": "==2.0.1"
         },
+        "minchin.pelican.plugins.nojekyll": {
+            "hashes": [
+                "sha256:843f81adb905938f291291beb5be9beeaec005379502e86f73838ac7d2c8a78b",
+                "sha256:9476d33179c1ee709cf010678c7bc5d2447af7e00847c4eb1aa6f7705b5588fe"
+            ],
+            "index": "pypi",
+            "version": "==1.1.1"
+        },
         "pelican": {
             "hashes": [
                 "sha256:5baba5db1ef378ab308a459dc9028bd9fa099b1bd109000a18d23ee8469bcce9",
@@ -188,7 +196,7 @@
                 "sha256:1dded089b79dd042b3ab5cd63439a338e16652001f0c16e73acdcf4997ad772d",
                 "sha256:43b2c6ad51f46f6c94992aee546f1c177719f4e05aff8f5ea4d2efae3ebdac89"
             ],
-            "markers": "python_version < '4.0' and python_full_version >= '3.6.2'",
+            "markers": "python_full_version >= '3.6.2' and python_full_version < '4.0.0'",
             "version": "==10.15.2"
         },
         "six": {
