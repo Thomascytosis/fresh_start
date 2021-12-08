@@ -8,6 +8,7 @@ pelican = "*"
 invoke = "*"
 livereload = "*"
 "minchin.pelican.plugins.nojekyll" = "*"
+markdown = "*"
 
 [dev-packages]
 
