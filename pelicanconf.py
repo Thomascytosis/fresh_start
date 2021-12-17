@@ -1,7 +1,7 @@
 AUTHOR = 'thomascytosis'
 SITENAME = 'retry_one'
-SITEURL = '.'
-
+SITEURL = 'https://thomascytosis.github.io/fresh_start/'
+BLOG_AUTHORS = 'thomascytosis'
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
 
@@ -14,6 +14,10 @@ PLUGINS = [
     'minchin.pelican.plugins.nojekyll',
     # ...
 ]
+
+THEME = "lovers"
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
