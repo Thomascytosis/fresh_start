@@ -1,11 +1,9 @@
 AUTHOR = 'thomascytosis'
 SITENAME = 'retry_one'
 SITEURL = 'https://thomascytosis.github.io/fresh_start/'
-<<<<<<< HEAD
-BLOG_AUTHORS = 'thomascytosis'
-=======
 
->>>>>>> 368af1eb56ee4ac8382161427fd076412c54197d
+BLOG_AUTHORS = 'thomascytosis'
+
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
 
