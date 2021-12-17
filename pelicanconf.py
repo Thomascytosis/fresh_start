@@ -1,6 +1,6 @@
 AUTHOR = 'thomascytosis'
 SITENAME = 'retry_one'
-SITEURL = '.'
+SITEURL = 'https://thomascytosis.github.io/fresh_start/'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs/'
